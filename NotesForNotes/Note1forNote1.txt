@@ -1,0 +1,12 @@
+When you name your properties, data and classes 
+make sure the first letter is lower case and the rest or the words needs
+letters starts capitalized  ie: nameVariable
+
+Also the application is read from top to buttom
+So make you your codes are running in a way that 
+they can be executed from top to buttom.
+
+When you want to make an object/function
+You need to creat a new class and execute
+your statements, then call it finally in 
+the main class.

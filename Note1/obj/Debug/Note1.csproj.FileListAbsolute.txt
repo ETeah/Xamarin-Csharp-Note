@@ -1,0 +1,7 @@
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note1\bin\Debug\Note1.exe.config
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note1\bin\Debug\Note1.exe
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note1\bin\Debug\Note1.pdb
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note1\obj\Debug\Note1.csprojResolveAssemblyReference.cache
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note1\obj\Debug\Note1.csproj.CoreCompileInputs.cache
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note1\obj\Debug\Note1.exe
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note1\obj\Debug\Note1.pdb

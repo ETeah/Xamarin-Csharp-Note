@@ -10,3 +10,33 @@ When you want to make an object/function
 You need to creat a new class and execute
 your statements, then call it finally in 
 the main class.
+
+
+
+string name = Console.ReadLine();
+//The statement above takes in a value
+
+
+if statements are decision statements
+if you have only one line of code under an if statement you can ignore the brakets
+
+for Console.read line
+If you are using a string in multiple statements,
+you can declear the string value as empty, before assigning a value that could be read
+
+string rReader ="";
+
+int i == 2;
+if(i == 2)
+   Console.Write("Nice Job");
+
+else if(i != 2)
+{
+Console.Write("what are you doing?");
+}
+else
+{
+Consol.Write("Can't get you!");
+}
+
+Console.ReadLine();

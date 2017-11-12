@@ -4,3 +4,4 @@ C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note2\bin\Debug\Note2.
 C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note2\bin\Debug\Note2.pdb
 C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note2\obj\Debug\Note2.exe
 C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note2\obj\Debug\Note2.pdb
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Note2\obj\Debug\Note2.csprojResolveAssemblyReference.cache

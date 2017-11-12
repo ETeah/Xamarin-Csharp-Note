@@ -1,0 +1,7 @@
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Iteration Statement\bin\Debug\Iteration Statement.exe.config
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Iteration Statement\bin\Debug\Iteration Statement.exe
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Iteration Statement\bin\Debug\Iteration Statement.pdb
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Iteration Statement\obj\Debug\Iteration Statement.csprojResolveAssemblyReference.cache
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Iteration Statement\obj\Debug\Iteration Statement.csproj.CoreCompileInputs.cache
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Iteration Statement\obj\Debug\Iteration Statement.exe
+C:\Users\ETEAH.GOCFS\Documents\GitHub\Xamarin-Csharp-Note\Iteration Statement\obj\Debug\Iteration Statement.pdb

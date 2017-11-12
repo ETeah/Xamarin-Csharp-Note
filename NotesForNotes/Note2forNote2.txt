@@ -1,0 +1,39 @@
+Iteration Statement are use to search for specific value 
+in a method to then perform a task. It loops through, to find when 
+your code should be run.
+
+for statement is an iteration statement
+
+for(int i = 0; i < 5; i ++)
+{
+   //the for statement takes an int input
+   //this is done by initiating int giving it a name ie: "i"
+   //then setting it's limit, and finally incrementing or decrementing it's value
+
+  Console.WriteLine(i);
+
+ //break; is used to exit the for iteration/searching process
+ //f9 for vstuido also toggle break point
+//can click of the left most - gray part of the interface -red dot appears
+
+    if(f == 4)
+                {
+                    Console.WriteLine("You have {0}", f);
+                       break;
+                }
+
+}
+
+
+
+vs debugging tool
+-can step trough the search process in (for) iteration
+-first in the normal windows with nothing extra open
+-click f10
+and you will see a blue circular arrow button
+you will also see a continue button
+-you can click those to do the search through
+
+--Double tap TAB for a code synapit/complete structure example of a 
+function
+ type for (double tap tab)

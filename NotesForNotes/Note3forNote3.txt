@@ -1,0 +1,107 @@
+
+-----------------------Organizing Strings--------------------------------------
+
+@"c:\"  is the same as c:\\
+when producing an out put
+which is 
+c:\
+-c:\ can't be writen in a string without an error
+-You need to use an excape method c:\\ or the @ and then "" with your string in it.
+--------------------------------------
+
+string myString ="My \"so call"\ best friend"; 
+the \ \ serves as an escape for the additional"" sign we 
+want to put around so call to express our pmhysis.
+------------------------------------------
+"\n" pushes a sentence onto a new line
+----------------------------------------
+{0:C}
+displays the number as a courence with $
+{2:N} 
+displays the number with place value 1345125 (commas) and (decimal points)
+ie: string myString = string.Format("{0:C}","{2:N}", 123.45, 1345125);
+-------------------------------
+string.Format("{0:P}", 12);
+turns number into persent format
+-------------------------------------------
+Formating a phone number.
+string.Format("{0: (###), ####-####}", 201320334);
+this format pushes the rest of the number in the last set of # position
+------------------------------------------------
+        Substring, asolate specific amount of string
+        this is also a build in method.
+-----------------------------------------------------------------
+mySubsetString = "  That Summer we took two across the board   ";
+---------------------------------------------------
+mySubsetString = mySubsetString.Substring(6,13);
+means:
+-mySubsetString = mySubsetString.Substring(start,end);
+--------------------------------------------------
+mySubsetString = mySubsetString.Substring(6);
+means:
+mySubsetString = mySubsetString.Substring(start);
+and continue to the end
+---------------------------------------
+myString.Replace("", "--");
+----------------------
+
+
+/////////////////////////////////////////////////////
+my String = "  Ohoy mate, how are you guys today  ";
+
+myString.Trim().Length;
+This removes the spaces from the outter part of the string
+ie:
+myString = String.Format("Lenght before:{0} -- Length after:{1}", 
+ //the statement continues
+ myString.Lenght, myString.Trim().Length);
+-----------------------------------------------------
+
+StringBuilder myString = new StringBuilder();
+
+ //the above statement produces a new string that replaces 
+the old one right after all the string is assembled
+//Append is an opperation method that stack all variables and produces 
+//one result, but for all those varibles each.
+
+for(int i = 0; i < 100; i++)
+{
+   //append method forces the for method to pack all 
+    //the amount of loop that producess a "true" result, and 
+    //applie this statements below, one time, but for all those results.
+
+   myString.Append("--");
+   myString.Append(i);
+}
+Console.WriteLine(myString);
+Console.ReadLine();
+
+//the reduses how long the compute will take to loop through, then assign
+//then repeat that assign then repeat...so on.
+----------------------------------------------------------
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
